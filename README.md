@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laaph
-- 👀 I’m interested in ML, game dev, mathematical curiosities, and 
+- 👀 I’m interested in ML, game dev, mathematical curiosities, and many other things
 - 🌱 I’m currently learning multiplayer gamedev and django
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me laaph@laaph.com
